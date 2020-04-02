@@ -15,7 +15,7 @@ body, html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-  background-image: url('w3images/NicoletteFlute.jpg');
+  background-image: url("/w3images/NicoletteFlute.jpg");
   min-height: 100%;
 }
 
